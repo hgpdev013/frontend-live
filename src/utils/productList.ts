@@ -3,7 +3,7 @@ export const productList = [
     ProductID: 7631,
     Name: "Pillow",
     Price: 24.99,
-    "Retail Price": 24.99,
+    RetailPrice: 24.99,
     ThumbnailURL: "https://dummyimage.com/150x150/AAF4EE/000000",
     PictureURL: "https://dummyimage.com/350x350/AAF4EE/000000",
     Description:
@@ -22,7 +22,7 @@ export const productList = [
     ProductID: 7615,
     Name: "Watch",
     Price: 142,
-    "Retail Price": 159.95,
+    RetailPrice: 159.95,
     ThumbnailURL: "https://dummyimage.com/150x150/AAF4EE/000000",
     PictureURL: "https://dummyimage.com/350x350/AAF4EE/000000",
     Description:
@@ -41,7 +41,7 @@ export const productList = [
     ProductID: 8100,
     Name: "Cordless Phone",
     Price: 66.61,
-    "Retail Price": 79.95,
+    RetailPrice: 79.95,
     ThumbnailURL: "https://dummyimage.com/150x150/AAF4EE/000000",
     PictureURL: "https://dummyimage.com/350x350/AAF4EE/000000",
     Description:
@@ -60,7 +60,7 @@ export const productList = [
     ProductID: 6489,
     Name: "Unlocked Phone",
     Price: 109,
-    "Retail Price": 129.99,
+    RetailPrice: 129.99,
     ThumbnailURL: "https://dummyimage.com/150x150/AAF4EE/000000",
     PictureURL: "https://dummyimage.com/350x350/AAF4EE/000000",
     Description:
@@ -79,7 +79,7 @@ export const productList = [
     ProductID: 7732,
     Name: "Moto G Stylus Unlocked",
     Price: 269.99,
-    "Retail Price": 299.99,
+    RetailPrice: 299.99,
     ThumbnailURL: "https://dummyimage.com/150x150/AAF4EE/000000",
     PictureURL: "https://dummyimage.com/350x350/AAF4EE/000000",
     Description:
@@ -98,7 +98,7 @@ export const productList = [
     ProductID: 7609,
     Name: "iPad Pro 11 inch 2nd Generation",
     Price: 949.99,
-    "Retail Price": 949.99,
+    RetailPrice: 949.99,
     ThumbnailURL: "https://dummyimage.com/150x150/AAF4EE/000000",
     PictureURL: "https://dummyimage.com/350x350/AAF4EE/000000",
     Description:
@@ -117,7 +117,7 @@ export const productList = [
     ProductID: 7675,
     Name: "Desk Lamp",
     Price: 39.49,
-    "Retail Price": 44.49,
+    RetailPrice: 44.49,
     ThumbnailURL: "https://dummyimage.com/150x150/AAF4EE/000000",
     PictureURL: "https://dummyimage.com/350x350/AAF4EE/000000",
     Description:
@@ -136,7 +136,7 @@ export const productList = [
     ProductID: 7463,
     Name: "Wireless Color Photo Printer",
     Price: 79.99,
-    "Retail Price": 79.99,
+    RetailPrice: 79.99,
     ThumbnailURL: "https://dummyimage.com/150x150/AAF4EE/000000",
     PictureURL: "https://dummyimage.com/350x350/AAF4EE/000000",
     Description:
@@ -155,7 +155,7 @@ export const productList = [
     ProductID: 7677,
     Name: "LED Floor lamp",
     Price: 39.99,
-    "Retail Price": 39.99,
+    RetailPrice: 39.99,
     ThumbnailURL: "https://dummyimage.com/150x150/AAF4EE/000000",
     PictureURL: "https://dummyimage.com/350x350/AAF4EE/000000",
     Description:
@@ -174,7 +174,7 @@ export const productList = [
     ProductID: 8099,
     Name: " Polar Ignite Fitness watch",
     Price: 207.47,
-    "Retail Price": 229.95,
+    RetailPrice: 229.95,
     ThumbnailURL: "https://dummyimage.com/150x150/AAF4EE/000000",
     PictureURL: "https://dummyimage.com/350x350/AAF4EE/000000",
     Description:
