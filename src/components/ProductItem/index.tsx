@@ -1,5 +1,4 @@
 import * as Styles from "./styles";
-import { useNavigate } from "react-router-dom";
 
 interface ProductItemProps {
   data: {
@@ -12,7 +11,7 @@ interface ProductItemProps {
 }
 
 export const ProductItem = ({ data }: ProductItemProps) => {
-  // const router = useNavigate();
+  // const navigate = useNavigate();
   return (
     <Styles.Container>
       <Styles.ImageContent>
