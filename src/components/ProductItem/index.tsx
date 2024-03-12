@@ -1,3 +1,4 @@
+import { useNavigate } from "react-router-dom";
 import * as Styles from "./styles";
 
 interface ProductItemProps {
@@ -11,7 +12,7 @@ interface ProductItemProps {
 }
 
 export const ProductItem = ({ data }: ProductItemProps) => {
-  // const navigate = useNavigate();
+  const navigate = useNavigate();
   return (
     <Styles.Container>
       <Styles.ImageContent>
@@ -24,7 +25,7 @@ export const ProductItem = ({ data }: ProductItemProps) => {
           </div>
         </div>
       </Styles.ImageContent>
-      <button onClick={() => console.log(`/${data.id}`)}>View Details</button>
+      <button onClick={() => navigate(`/list/${data.id}`)}>View Details</button>
     </Styles.Container>
   );
 };
